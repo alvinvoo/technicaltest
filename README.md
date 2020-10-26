@@ -8,7 +8,7 @@
    c. A user should be able to logout  
    d. A user should be able to create user profile  
    e. A user should be able to view user profiles (including others profile)  
-   e. A user should be able to edit <strong>ONLY</strong> his/her own user profile (user A cannot edit user B profile)  
+   f. A user should be able to edit <strong>ONLY</strong> his/her own user profile (user A cannot edit user B profile)  
 3. Tips: Using TDD practice <i>(red-green test)</i>, first write the test cases based on the above acceptance criteria before writing the implementation.
 4. Tips: Below are the suggested endpoints naming (you can name it differently if you want to):  
    a. POST /register  

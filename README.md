@@ -19,3 +19,4 @@
    f. PATCH /users/{user_id} - remember, a user can only change his/her own profile  
 5. Tips: For authentication, you can checkout [Laravel Passport](https://laravel.com/docs/8.x/passport)
 6. Tips: For TDD, you can checkout this Laracast [TDD for laravel](https://laracasts.com/series/build-a-laravel-app-with-tdd)
+7. Bonus tips: A good dev always do proper documentation. Include your setup steps and any explaination you think we should know at your README.md
